@@ -18,4 +18,6 @@ dist/
 *.log
 .env*
 
-backend/.venv
+backend/.venv/
+backend/__pycache__/
+*.py[cod]
